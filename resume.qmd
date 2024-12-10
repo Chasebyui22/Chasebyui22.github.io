@@ -1,89 +1,78 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chase Smith
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Tenaious Innovative Charitable 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="chased.smith1@gmail.com">chased.smith1@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Making custom in house applications to streamline os updating automation with optimized patching windows.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Cybersecurity, AI, Excel Sheets, Docker, Neo4j, Streamlit, API.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Making a AI side project to generate an effecitve win stragey for a fun card game called "Minecraft Explorers".
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - Present`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Brigham Young University Idaho__
 
-- Sizar
+- CIT Major
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Volunteer Work
 
-- Fellow
+`2021 -2023`
 
+__The Church of Jesus Christ of Latter-day Saints__
 
+Missionary
 
-## Awards
+- As a missionary, I voluntarily ministered and diligently preached The Gospel of Jesus Christ for 2 years.
 
-`2012`
-President, *Royal Society*, London, UK
+- I was entrusted with leadership roles such as “Zone Leader,” “District Leader,” and “Trainer.” I helped to
+gather and report metrics to senior leadership. Most importantly, I was able to offer guidance and
+encouragement to the 12 missionaries under my care.
 
-Associate, *French Academy of Science*, Paris, France
+- Became proficient in speaking the Spanish language.
 
+## Certificates
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+- `Comptia Security +`
+- `MS-900`
+- `SC-900`
+- `AI-900`
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Jun 2019 - May 2020 (with a one-semester sabbatical for school)`
 
-- Warden
-- Minted coins
+__Lyn-Tron, Inc.__ 
+2nd Operations Technician
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- As a 2nd Ops technician, I inspected manufactured parts and made any necessary corrections prior to shipment.
+- I suggeseted and helped maintain robotics to accelerate production capabilities.
+- I operated complex machinery to re-work metal and plastic parts to prepare them for shipment.
 
+`2023-Present`
 
+__Philantech3__ 
+Security Maintence
+
+- I manage the security for over 1,400 endpoints including 3rd party and os patching.
+- I help track and format data about our current security posture and provide actionable suggestions for improvement.
+- I have deployed in house applications that help machines get updated.
+- I've also implmented an array of different automations to help boost efficiency.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2024 -->
